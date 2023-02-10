@@ -1,0 +1,11 @@
+name = 'Bruno'
+last_name = 'Mendes'
+carrer_plan = 'Finalizar a mini piscina da 42 SP e ser promovido no Itaú'
+profession = 'Engenheiro de dados'
+age = 24
+skill1 = 'Python'
+skill2 = 'SQL'
+skill3 = 'AWS'
+target1 = 'Tirar certificação AWS Solutions Architect'
+target2 = 'Finalizar treinamento da Mini Piscina 42'
+target3 = 'Correr 10km Bravus Race'

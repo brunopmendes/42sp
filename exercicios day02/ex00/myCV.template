@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV {name}</title>
+</head>
+
+<body>
+    <h1>{name} {last_name} CV</h1>
+
+        <table>
+            <tr>
+                <th>Nome</th>
+                <td>{name}</th>
+            </tr>
+            <tr>
+                <th>Sobrenome</td>
+                <td>{last_name}</td>
+            </tr>
+            <tr>
+                <th>Plano de Carreira</td>
+                <td>{carrer_plan}</td>
+            </tr>
+            <tr>
+                <th>Profissão</th>
+                <td>{profession}</th>
+            </tr>
+            <tr>
+                <th>Idade</th>
+                <td>{age}</th>
+            </tr>
+        </table>
+
+        <h2>Minhas Skills</h2>
+        <ul>
+            <li>{skill1}</li>
+            <li>{skill2}</li>
+            <li>{skill3}</li>
+        </ul>
+
+        <h2>Meus Objetivos 2022</h2>
+        <ol>
+            <li>{target1}</li>
+            <li>{target2}</li>
+            <li>{target3}</li>
+        </ol>
+</body>
+</html>
